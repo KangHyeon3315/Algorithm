@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 1일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/ParkWalk172928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/WallPaperClean161990.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 2일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/KeyMap160586.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Painting161989.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WallPaperClean161990">
+  <component name="RunManager" selected="Application.KeyMap160586">
+    <configuration name="KeyMap160586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.KeyMap160586" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MemoryScore176963" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.MemoryScore176963" />
       <module name="Algorithm.main" />
@@ -59,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkWalk172928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.ParkWalk172928" />
+    <configuration name="Painting161989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.Painting161989" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RacingGame178871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.RacingGame178871" />
+    <configuration name="ParkWalk172928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.ParkWalk172928" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -100,10 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyMap160586" />
+        <item itemvalue="Application.Painting161989" />
         <item itemvalue="Application.WallPaperClean161990" />
         <item itemvalue="Application.ParkWalk172928" />
         <item itemvalue="Application.MemoryScore176963" />
-        <item itemvalue="Application.RacingGame178871" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +130,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688647721975</updated>
       <workItem from="1688647723572" duration="5756000" />
-      <workItem from="1688711220850" duration="2046000" />
+      <workItem from="1688711220850" duration="2739000" />
+      <workItem from="1688780343929" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -125,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688652929240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="알고리즘 공부 2일차">
+      <created>1688716917643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688716917643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="알고리즘 공부 1일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 1일차" />
+    <MESSAGE value="알고리즘 공부 2일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 2일차" />
   </component>
 </project>
