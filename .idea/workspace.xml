@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 2일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/KeyMap160586.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Painting161989.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 3일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/BunchOfCards159994.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Encryption155652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PersonalInfoCollectionValidity150370.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.KeyMap160586">
-    <configuration name="KeyMap160586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.KeyMap160586" />
+}]]></component>
+  <component name="RunManager" selected="Application.PersonalInfoCollectionValidity150370">
+    <configuration name="BunchOfCards159994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.BunchOfCards159994" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemoryScore176963" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.MemoryScore176963" />
+    <configuration name="Encryption155652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.Encryption155652" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyMap160586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.KeyMap160586" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -85,21 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkWalk172928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.ParkWalk172928" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WallPaperClean161990" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.WallPaperClean161990" />
+    <configuration name="PersonalInfoCollectionValidity150370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.PersonalInfoCollectionValidity150370" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonalInfoCollectionValidity150370" />
+        <item itemvalue="Application.Encryption155652" />
+        <item itemvalue="Application.BunchOfCards159994" />
         <item itemvalue="Application.KeyMap160586" />
         <item itemvalue="Application.Painting161989" />
-        <item itemvalue="Application.WallPaperClean161990" />
-        <item itemvalue="Application.ParkWalk172928" />
-        <item itemvalue="Application.MemoryScore176963" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +133,8 @@
       <updated>1688647721975</updated>
       <workItem from="1688647723572" duration="5756000" />
       <workItem from="1688711220850" duration="2739000" />
-      <workItem from="1688780343929" duration="1329000" />
+      <workItem from="1688780343929" duration="2015000" />
+      <workItem from="1688869588592" duration="5533000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -147,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688716917643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="알고리즘 공부 3일차">
+      <created>1688782702720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688782702720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="알고리즘 공부 1일차" />
     <MESSAGE value="알고리즘 공부 2일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 2일차" />
+    <MESSAGE value="알고리즘 공부 3일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 3일차" />
   </component>
 </project>
