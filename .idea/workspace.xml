@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 3일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/BunchOfCards159994.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Encryption155652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PersonalInfoCollectionValidity150370.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 4일차">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/DivideString140108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SmallSubString147355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/nearestCharacter142086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +44,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PersonalInfoCollectionValidity150370">
-    <configuration name="BunchOfCards159994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SmallSubString147355">
+    <configuration name="SmallSubString147355" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.SmallSubString147355" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="level01.BunchOfCards159994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.BunchOfCards159994" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -61,7 +76,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encryption155652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.Encryption155652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.Encryption155652" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -74,7 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyMap160586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.KeyMap160586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.KeyMap160586" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -87,20 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Painting161989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.Painting161989" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonalInfoCollectionValidity150370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.PersonalInfoCollectionValidity150370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.PersonalInfoCollectionValidity150370" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonalInfoCollectionValidity150370" />
-        <item itemvalue="Application.Encryption155652" />
-        <item itemvalue="Application.BunchOfCards159994" />
-        <item itemvalue="Application.KeyMap160586" />
-        <item itemvalue="Application.Painting161989" />
+        <item itemvalue="Application.SmallSubString147355" />
+        <item itemvalue="Application.level01.PersonalInfoCollectionValidity150370" />
+        <item itemvalue="Application.level01.Encryption155652" />
+        <item itemvalue="Application.level01.BunchOfCards159994" />
+        <item itemvalue="Application.level01.KeyMap160586" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,8 @@
       <workItem from="1688647723572" duration="5756000" />
       <workItem from="1688711220850" duration="2739000" />
       <workItem from="1688780343929" duration="2015000" />
-      <workItem from="1688869588592" duration="5533000" />
+      <workItem from="1688869588592" duration="5681000" />
+      <workItem from="1688958004736" duration="1735000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -157,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688782702720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="알고리즘 공부 4일차">
+      <created>1688875872105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688875872105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +200,7 @@
     <MESSAGE value="알고리즘 공부 1일차" />
     <MESSAGE value="알고리즘 공부 2일차" />
     <MESSAGE value="알고리즘 공부 3일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 3일차" />
+    <MESSAGE value="알고리즘 공부 4일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 4일차" />
   </component>
 </project>
