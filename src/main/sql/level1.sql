@@ -21,3 +21,19 @@ ORDER BY HISTORY_ID DESC;
 -- 평균 일일 대여 요금 구하기
 -- https://school.programmers.co.kr/learn/courses/30/lessons/151136
 SELECT ROUND(AVG(DAILY_FEE)) AS AVERAGE_FEE FROM CAR_RENTAL_COMPANY_CAR WHERE CAR_TYPE='SUV';
+
+-- 조건에 맞는 도서 리스트 출력하기
+-- https://school.programmers.co.kr/learn/courses/30/lessons/144853
+SELECT BOOK_ID, DATE_FORMAT(PUBLISHED_DATE, '%Y-%m-%d') as PUBLISHED_DATE FROM BOOK WHERE CATEGORY='인문' AND YEAR(PUBLISHED_DATE) = 2021 ORDER BY PUBLISHED_DATE;
+
+-- 과일로 만든 아이스크림 고르기
+-- https://school.programmers.co.kr/learn/courses/30/lessons/133025
+SELECT F.FLAVOR FROM FIRST_HALF AS F JOIN ICECREAM_INFO AS I ON F.FLAVOR = I.FLAVOR WHERE F.TOTAL_ORDER > 3000 AND I.INGREDIENT_TYPE='fruit_based' ORDER BY F.TOTAL_ORDER DESC
+
+-- 인기있는 아이스크림
+-- https://school.programmers.co.kr/learn/courses/30/lessons/133024
+SELECT FLAVOR FROM FIRST_HALF ORDER BY TOTAL_ORDER DESC, SHIPMENT_ID ASC
+
+-- 흉부외과 또는 일반외과 의사 목록 출력하기
+-- https://school.programmers.co.kr/learn/courses/30/lessons/132203
+SELECT DR_NAME, DR_ID, MCDP_CD, DATE_FORMAT(HIRE_YMD, '%Y-%m-%d') AS HIRE_YMD FROM DOCTOR WHERE MCDP_CD='CS' OR MCDP_CD='GS' ORDER BY HIRE_YMD DESC, DR_NAME ASC
