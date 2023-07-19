@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 6일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/KnightsWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level2/IntegerPairBetweenTwoCircles.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 7일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FoodFight134240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FruitSeller135808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level2/SumOfSuccessivePartialSequences178870.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/sql/level1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sql/level1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/IntegerPairBetweenTwoCircles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level2/IntegerPairBetweenTwoCircles181187.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +57,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.KnightsWeapon">
-    <configuration name="HallOfFame138477" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.HallOfFame138477" />
+  <component name="RunManager" selected="Application.FruitSeller135808">
+    <configuration name="FruitSeller135808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.FruitSeller135808" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerPairBetweenTwoCircles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.IntegerPairBetweenTwoCircles" />
+    <configuration name="IntegerPairBetweenTwoCircles181187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.IntegerPairBetweenTwoCircles181187" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnightsWeapon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.KnightsWeapon" />
+    <configuration name="level01.HallOfFame138477" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.HallOfFame138477" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallSubString147355" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.SmallSubString147355" />
+    <configuration name="level01.KnightsWeapon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.KnightsWeapon" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KnightsWeapon" />
-        <item itemvalue="Application.IntegerPairBetweenTwoCircles" />
-        <item itemvalue="Application.HallOfFame138477" />
-        <item itemvalue="Application.InterceptionSystem181188" />
-        <item itemvalue="Application.SmallSubString147355" />
+        <item itemvalue="Application.FruitSeller135808" />
+        <item itemvalue="Application.level01.KnightsWeapon" />
+        <item itemvalue="Application.IntegerPairBetweenTwoCircles181187" />
+        <item itemvalue="Application.level01.HallOfFame138477" />
+        <item itemvalue="Application.level2.InterceptionSystem181188" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,8 @@
       <workItem from="1688869588592" duration="5681000" />
       <workItem from="1688958004736" duration="2613000" />
       <workItem from="1689472225993" duration="4162000" />
-      <workItem from="1689553659077" duration="6985000" />
+      <workItem from="1689553659077" duration="7130000" />
+      <workItem from="1689719604370" duration="3230000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689477638171</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="알고리즘 공부 7일차">
+      <created>1689560804272</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689560804272</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +235,7 @@
     <MESSAGE value="알고리즘 공부 4일차" />
     <MESSAGE value="알고리즘 공부 5일차" />
     <MESSAGE value="알고리즘 공부 6일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 6일차" />
+    <MESSAGE value="알고리즘 공부 7일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 7일차" />
   </component>
 </project>

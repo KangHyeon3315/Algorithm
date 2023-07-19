@@ -1,11 +1,13 @@
 package level2;
 
+import java.util.Arrays;
+
 /**
  * 두 원 사이의 정수 쌍
  * <p>
  * https://school.programmers.co.kr/learn/courses/30/lessons/181187
  */
-public class IntegerPairBetweenTwoCircles {
+public class IntegerPairBetweenTwoCircles181187 {
 
     public static void main(String[] args) {
         int r1 = 2;
