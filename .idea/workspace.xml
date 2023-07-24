@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 10일차">
-      <change afterPath="$PROJECT_DIR$/src/main/sql/level2.sql" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 11일차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/SumOfSuccessivePartialSequences178870.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/sql/level2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sql/level2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,8 @@
       <workItem from="1689815298520" duration="6913000" />
       <workItem from="1689981391670" duration="8272000" />
       <workItem from="1690000140895" duration="24000" />
-      <workItem from="1690088860258" duration="1704000" />
+      <workItem from="1690088860258" duration="1737000" />
+      <workItem from="1690169241446" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690000155454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="알고리즘 공부 11일차">
+      <created>1690096878214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690096878214</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +247,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -261,6 +270,7 @@
     <MESSAGE value="알고리즘 공부 8일차" />
     <MESSAGE value="알고리즘 공부 9일차" />
     <MESSAGE value="알고리즘 공부 10일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 10일차" />
+    <MESSAGE value="알고리즘 공부 11일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 11일차" />
   </component>
 </project>
