@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 12일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/CalcShortfall82612.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/DoesntExistsNumberAdd86051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/LottoHighLowRank77484.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/NumericStringEnglishWord81301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SumOfDivisors77884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level2/ProceedingAssignment176962.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 13일차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/sql/level2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sql/level2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +151,8 @@
       <workItem from="1690000140895" duration="24000" />
       <workItem from="1690088860258" duration="1737000" />
       <workItem from="1690169241446" duration="2466000" />
-      <workItem from="1690249173921" duration="3183000" />
+      <workItem from="1690249173921" duration="3313000" />
+      <workItem from="1690340188646" duration="4241000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -242,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690174228019</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="알고리즘 공부 13일차">
+      <created>1690252493776</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690252493776</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +287,7 @@
     <MESSAGE value="알고리즘 공부 10일차" />
     <MESSAGE value="알고리즘 공부 11일차" />
     <MESSAGE value="알고리즘 공부 12일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 12일차" />
+    <MESSAGE value="알고리즘 공부 13일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 13일차" />
   </component>
 </project>
