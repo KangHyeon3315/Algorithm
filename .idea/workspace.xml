@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 14일차">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tech.md" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="Algorithm 테크닉 정리">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/InnerProduct70128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/NewIdRecommend72410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PlusMinusSum76501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/TernaryFlip68935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/TwoNumberCombination68644.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Tech.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tech.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +59,47 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.LottoHighLowRank77484">
-    <configuration name="LottoHighLowRank77484" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TernaryFlip68935">
+    <configuration name="InnerProduct70128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.InnerProduct70128" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewIdRecommend72410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.NewIdRecommend72410" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TernaryFlip68935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.TernaryFlip68935" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="level01.LottoHighLowRank77484" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.LottoHighLowRank77484" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -68,47 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumericStringEnglishWord81301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.NumericStringEnglishWord81301" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProceedingAssignment176962" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.ProceedingAssignment176962" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDivisors77884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.SumOfDivisors77884" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="level01.DoesntExistsNumberAdd86051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.DoesntExistsNumberAdd86051" />
+    <configuration name="level01.PlusMinusSum76501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.PlusMinusSum76501" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LottoHighLowRank77484" />
-        <item itemvalue="Application.SumOfDivisors77884" />
-        <item itemvalue="Application.NumericStringEnglishWord81301" />
-        <item itemvalue="Application.level01.DoesntExistsNumberAdd86051" />
-        <item itemvalue="Application.ProceedingAssignment176962" />
+        <item itemvalue="Application.TernaryFlip68935" />
+        <item itemvalue="Application.InnerProduct70128" />
+        <item itemvalue="Application.NewIdRecommend72410" />
+        <item itemvalue="Application.level01.PlusMinusSum76501" />
+        <item itemvalue="Application.level01.LottoHighLowRank77484" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +158,8 @@
       <workItem from="1690169241446" duration="2466000" />
       <workItem from="1690249173921" duration="3313000" />
       <workItem from="1690340188646" duration="4346000" />
-      <workItem from="1690423278689" duration="1737000" />
+      <workItem from="1690423278689" duration="1814000" />
+      <workItem from="1690517054815" duration="3757000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -253,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690344597199</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Algorithm 테크닉 정리">
+      <created>1690425493605</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690425493605</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,6 +310,7 @@
     <MESSAGE value="알고리즘 공부 12일차" />
     <MESSAGE value="알고리즘 공부 13일차" />
     <MESSAGE value="알고리즘 공부 14일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 14일차" />
+    <MESSAGE value="Algorithm 테크닉 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm 테크닉 정리" />
   </component>
 </project>

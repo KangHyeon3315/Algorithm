@@ -42,3 +42,40 @@ for(int i = 1; i <= (int)Math.sqrt(n); i++) { // 제곱근까지만 확인
 ```java
 List<Integer> winNums=Arrays.stream(win_nums).boxed().collect(Collectors.toList());
 ```
+
+# 탐색
+
+## DFS
+
+```java
+public static void dfs(int[][] nodes, int i, boolean[] visited) {
+    visited[i] = true;
+    for (int j = 0; j < nodes.length; j++) {
+        if (i != j && nodes[i][j] == 1 && !visited[j]) {
+            dfs(nodes, j, visited);
+        }
+    }
+}
+```
+
+## BFS
+
+
+
+# 문자열
+
+## 정규표현식
+
+## 진법 표현
+
+```java
+String s = Integer.toString(n, 3); // 3진법 변환
+
+int n = Integer.parseInt(s, 3); // 3진법 파싱
+```
+
+## 문자열 조작
+```java
+StringBuffer sb = new StringBuffer(str);
+String reverse = sb.reverse().toString(); 
+```
