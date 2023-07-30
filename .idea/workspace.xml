@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 15일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/KeyPad67256.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 16일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/CraneMachineGame64061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/MockTest42840.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +55,34 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.KeyPad67256">
-    <configuration name="InnerProduct70128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MockTest42840">
+    <configuration name="CraneMachineGame64061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.CraneMachineGame64061" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockTest42840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.MockTest42840" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="level01.InnerProduct70128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.InnerProduct70128" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -68,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyPad67256" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.KeyPad67256" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.KeyPad67256" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -81,34 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewIdRecommend72410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.NewIdRecommend72410" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TernaryFlip68935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.TernaryFlip68935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.TernaryFlip68935" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="level01.PlusMinusSum76501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.PlusMinusSum76501" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KeyPad67256" />
-        <item itemvalue="Application.TernaryFlip68935" />
-        <item itemvalue="Application.InnerProduct70128" />
-        <item itemvalue="Application.NewIdRecommend72410" />
-        <item itemvalue="Application.level01.PlusMinusSum76501" />
+        <item itemvalue="Application.MockTest42840" />
+        <item itemvalue="Application.CraneMachineGame64061" />
+        <item itemvalue="Application.level01.KeyPad67256" />
+        <item itemvalue="Application.level01.TernaryFlip68935" />
+        <item itemvalue="Application.level01.InnerProduct70128" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,8 @@
       <workItem from="1690340188646" duration="4346000" />
       <workItem from="1690423278689" duration="1814000" />
       <workItem from="1690517054815" duration="4337000" />
-      <workItem from="1690589727219" duration="163000" />
+      <workItem from="1690589727219" duration="396000" />
+      <workItem from="1690710145190" duration="2982000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -269,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690521312323</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="알고리즘 공부 16일차">
+      <created>1690590120400</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1690590120400</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +324,7 @@
     <MESSAGE value="알고리즘 공부 14일차" />
     <MESSAGE value="Algorithm 테크닉 정리" />
     <MESSAGE value="알고리즘 공부 15일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 15일차" />
+    <MESSAGE value="알고리즘 공부 16일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 16일차" />
   </component>
 </project>
