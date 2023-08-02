@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 18일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FailureRate42889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/WorkoutClothes42862.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 19일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FailedRunner42576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/KNumber42748.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.WorkoutClothes42862">
+  <component name="RunManager" selected="Application.KNumber42748">
     <configuration name="CraneMachineGame64061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.CraneMachineGame64061" />
       <module name="Algorithm.main" />
@@ -71,6 +71,19 @@
     </configuration>
     <configuration name="FailureRate42889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.FailureRate42889" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KNumber42748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.KNumber42748" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -108,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="level01.KeyPad67256" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.KeyPad67256" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KNumber42748" />
         <item itemvalue="Application.WorkoutClothes42862" />
         <item itemvalue="Application.FailureRate42889" />
         <item itemvalue="Application.MockTest42840" />
         <item itemvalue="Application.CraneMachineGame64061" />
-        <item itemvalue="Application.level01.KeyPad67256" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,8 @@
       <workItem from="1690589727219" duration="396000" />
       <workItem from="1690710145190" duration="3356000" />
       <workItem from="1690771784122" duration="3971000" />
-      <workItem from="1690851066574" duration="3114000" />
+      <workItem from="1690851066574" duration="3306000" />
+      <workItem from="1690938634054" duration="2016000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690776427243</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="알고리즘 공부 19일차">
+      <created>1690856078510</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690856078511</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +351,7 @@
     <MESSAGE value="알고리즘 공부 16일차" />
     <MESSAGE value="알고리즘 공부 17일차" />
     <MESSAGE value="알고리즘 공부 18일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 18일차" />
+    <MESSAGE value="알고리즘 공부 19일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 19일차" />
   </component>
 </project>
