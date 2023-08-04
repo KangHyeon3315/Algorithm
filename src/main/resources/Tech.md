@@ -79,3 +79,17 @@ int n = Integer.parseInt(s, 3); // 3진법 파싱
 StringBuffer sb = new StringBuffer(str);
 String reverse = sb.reverse().toString(); 
 ```
+
+
+# 기타
+
+## 소수 여부 판단
+    
+```java
+private boolean isPrime(int num) {
+    for(int i = 2; i * i <= num; i++){ // 제곱근까지만 확인 (제곱근 이후는 중복)
+        if(num % i == 0) return false;
+    }
+    return true;
+}
+```

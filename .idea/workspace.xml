@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 20일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Budget12982.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/DartGame17682.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SecretMap17681.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 21일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/CoveringPhoneNumber12948.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/MatrixSum12950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PrimeMake12977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/RectangularStar12969.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SpacedNumber12954.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Tech.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tech.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +59,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.SecretMap17681">
-    <configuration name="FailureRate42889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.FailureRate42889" />
+  <component name="RunManager" selected="Application.RectangularStar12969">
+    <configuration name="CoveringPhoneNumber12948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.CoveringPhoneNumber12948" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MockTest42840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.MockTest42840" />
+    <configuration name="RectangularStar12969" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.RectangularStar12969" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectangularStar12969" />
+        <item itemvalue="Application.CoveringPhoneNumber12948" />
         <item itemvalue="Application.SecretMap17681" />
         <item itemvalue="Application.KNumber42748" />
         <item itemvalue="Application.WorkoutClothes42862" />
-        <item itemvalue="Application.FailureRate42889" />
-        <item itemvalue="Application.MockTest42840" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +166,7 @@
       <workItem from="1690851066574" duration="3306000" />
       <workItem from="1690938634054" duration="2661000" />
       <workItem from="1691024939329" duration="4166000" />
+      <workItem from="1691117780880" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -311,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690944103086</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="알고리즘 공부 21일차">
+      <created>1691117846668</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1691117846668</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +373,7 @@
     <MESSAGE value="알고리즘 공부 18일차" />
     <MESSAGE value="알고리즘 공부 19일차" />
     <MESSAGE value="알고리즘 공부 20일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 20일차" />
+    <MESSAGE value="알고리즘 공부 21일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 21일차" />
   </component>
 </project>
