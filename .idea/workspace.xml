@@ -4,12 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 21일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/CoveringPhoneNumber12948.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/MatrixSum12950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PrimeMake12977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/RectangularStar12969.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SpacedNumber12954.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 22일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/ColatzConjecture12943.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FindPrimeNum12921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/Fonkemon1845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/GetAverage12944.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/GetWeekOfDay2016Year12901.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/GreatestCommonDivisorLeastCommonMultiple12940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/HasardNumber12947.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/OddEven12937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/RemoveMinNum12935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/ReverseDigits12932.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SortLongDecs12933.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SquareRoot12934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/StringSort12915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SumOfDigit12931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Tech.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tech.md" afterDir="false" />
     </list>
@@ -59,8 +68,8 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.RectangularStar12969">
-    <configuration name="CoveringPhoneNumber12948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.level01.RectangularStar12969">
+    <configuration name="level01.CoveringPhoneNumber12948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.CoveringPhoneNumber12948" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -73,7 +82,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KNumber42748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.KNumber42748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.KNumber42748" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -86,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangularStar12969" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.RectangularStar12969" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.RectangularStar12969" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -99,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecretMap17681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.SecretMap17681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.SecretMap17681" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -112,7 +121,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkoutClothes42862" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="level01.WorkoutClothes42862" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level01.WorkoutClothes42862" />
       <module name="Algorithm.main" />
       <extension name="coverage">
@@ -127,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RectangularStar12969" />
-        <item itemvalue="Application.CoveringPhoneNumber12948" />
-        <item itemvalue="Application.SecretMap17681" />
-        <item itemvalue="Application.KNumber42748" />
-        <item itemvalue="Application.WorkoutClothes42862" />
+        <item itemvalue="Application.level01.RectangularStar12969" />
+        <item itemvalue="Application.level01.CoveringPhoneNumber12948" />
+        <item itemvalue="Application.level01.SecretMap17681" />
+        <item itemvalue="Application.level01.KNumber42748" />
+        <item itemvalue="Application.level01.WorkoutClothes42862" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +175,8 @@
       <workItem from="1690851066574" duration="3306000" />
       <workItem from="1690938634054" duration="2661000" />
       <workItem from="1691024939329" duration="4166000" />
-      <workItem from="1691117780880" duration="2470000" />
+      <workItem from="1691117780880" duration="2550000" />
+      <workItem from="1691203042810" duration="5450000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -322,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691117846668</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="알고리즘 공부 22일차">
+      <created>1691120362461</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1691120362461</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +391,7 @@
     <MESSAGE value="알고리즘 공부 19일차" />
     <MESSAGE value="알고리즘 공부 20일차" />
     <MESSAGE value="알고리즘 공부 21일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 21일차" />
+    <MESSAGE value="알고리즘 공부 22일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 22일차" />
   </component>
 </project>

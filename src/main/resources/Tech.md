@@ -93,3 +93,33 @@ private boolean isPrime(int num) {
     return true;
 }
 ```
+
+## 소수 갯수 구하기
+
+1. 숫자 배열을 만든다.
+2. 2부터 시작해서 해당 숫자의 배수들을 모두 0으로 만든다.
+3. 0이 아닌 숫자들의 갯수를 센다.
+
+```java
+int[] numArr = new int[n];
+
+for(int i = 0; i < n; i++) {
+    numArr[i] = i + 1;
+}
+numArr[0] = 0;
+
+int count = n - 1;
+for(int i = 1; i < n; i++) {
+    if(numArr[i] == 0) continue;
+
+    int num = i + 1;
+    for(int j = num * 2; j <= n; j += num) {
+        if(numArr[j - 1] != 0) count--;
+        numArr[j - 1] = 0;
+
+    }
+}
+
+
+return count;
+```
