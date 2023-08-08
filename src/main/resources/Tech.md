@@ -43,6 +43,11 @@ for(int i = 1; i <= (int)Math.sqrt(n); i++) { // 제곱근까지만 확인
 List<Integer> winNums=Arrays.stream(win_nums).boxed().collect(Collectors.toList());
 ```
 
+## 진수 변화
+```java
+String s = Integer.toString(n, 3); // 3진법 변환
+```
+
 # 탐색
 
 ## DFS

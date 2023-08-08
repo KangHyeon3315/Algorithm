@@ -1,6 +1,4 @@
-package level2;
-
-import java.util.Arrays;
+package level02;
 
 /**
  * 연속된 부분 수열의 합

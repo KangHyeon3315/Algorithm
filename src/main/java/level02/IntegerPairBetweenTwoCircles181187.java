@@ -1,6 +1,4 @@
-package level2;
-
-import java.util.Arrays;
+package level02;
 
 /**
  * 두 원 사이의 정수 쌍

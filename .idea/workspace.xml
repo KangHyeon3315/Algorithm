@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 23일차">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/BasicString12918.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/CaesarPassword12926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/DivisibleNumArray12910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/FindKimInSeoul12919.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/GetCenterChar12903.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/HateSameNum12906.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/MakeStrangeChar12930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/PYInString12916.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/ParseInt12925.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/StringDescSort12917.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SumOfDivisor12928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/SumOfTwoNumBetween12912.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level01/WaterMelon12922.java" afterDir="false" />
+    <list default="true" id="096be068-6c68-4ae5-a613-535cb88281df" name="Changes" comment="알고리즘 공부 24일차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level02/CorrectParentheses12909.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level02/JadenCaseString12951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level02/MakeMinNum12941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level02/MinMaxValue12939.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level02/RepeatBinaryTransformation70129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sql/level4.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/sql/level3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sql/level3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/IntegerPairBetweenTwoCircles181187.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level02/IntegerPairBetweenTwoCircles181187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/InterceptionSystem181188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level02/InterceptionSystem181188.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/PartialSequencesSum178870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level02/PartialSequencesSum178870.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/ProceedingAssignment176962.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level02/ProceedingAssignment176962.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Tech.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tech.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,26 +64,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.level01.RectangularStar12969">
-    <configuration name="CoveringPhoneNumber12948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.CoveringPhoneNumber12948" />
+  <component name="RunManager" selected="Application.RepeatBinaryTransformation70129">
+    <configuration name="MakeMinNum12941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level02.MakeMinNum12941" />
       <module name="Algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KNumber42748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.KNumber42748" />
-      <module name="Algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level01.*" />
+          <option name="PATTERN" value="level02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +84,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatBinaryTransformation70129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level02.RepeatBinaryTransformation70129" />
+      <module name="Algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.level01.RectangularStar12969" />
-        <item itemvalue="Application.level01.CoveringPhoneNumber12948" />
-        <item itemvalue="Application.level01.SecretMap17681" />
-        <item itemvalue="Application.level01.KNumber42748" />
-        <item itemvalue="Application.level01.WorkoutClothes42862" />
+        <item itemvalue="Application.RepeatBinaryTransformation70129" />
+        <item itemvalue="Application.MakeMinNum12941" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +170,8 @@
       <workItem from="1691024939329" duration="4166000" />
       <workItem from="1691117780880" duration="2550000" />
       <workItem from="1691203042810" duration="5609000" />
-      <workItem from="1691279269232" duration="9228000" />
+      <workItem from="1691279269232" duration="9430000" />
+      <workItem from="1691458349503" duration="4708000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 공부 1일차">
       <created>1688652929240</created>
@@ -346,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691211342007</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="알고리즘 공부 24일차">
+      <created>1691289829304</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1691289829304</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +402,7 @@
     <MESSAGE value="알고리즘 공부 21일차" />
     <MESSAGE value="알고리즘 공부 22일차" />
     <MESSAGE value="알고리즘 공부 23일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 23일차" />
+    <MESSAGE value="알고리즘 공부 24일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 공부 24일차" />
   </component>
 </project>
