@@ -75,3 +75,33 @@ FROM REST_INFO AS I
 WHERE I.ADDRESS LIKE '서울%'
 GROUP BY I.REST_ID
 ORDER BY SCORE DESC, I.FAVORITES DESC
+
+-- 우유와 요거트가 담긴 장바구니
+-- https://school.programmers.co.kr/learn/courses/30/lessons/62284
+SELECT CART_ID FROM (
+                        SELECT * FROM CART_PRODUCTS
+                        WHERE NAME IN ('Milk', 'Yogurt')
+                        GROUP BY CART_ID, NAME
+                    ) AS T
+GROUP BY CART_ID
+HAVING COUNT(*)='2'
+ORDER BY CART_ID
+
+-- 주문량이 많은 아이스크림들 조회하기
+-- https://school.programmers.co.kr/learn/courses/30/lessons/133027
+SELECT F.FLAVOR FROM FIRST_HALF AS F RIGHT JOIN JULY AS J ON F.SHIPMENT_ID=J.SHIPMENT_ID
+GROUP BY J.FLAVOR
+ORDER BY SUM(F.TOTAL_ORDER) + SUM(J.TOTAL_ORDER) DESC LIMIT 3
+
+-- 저자 별 카테고리 별 매출액 집계하기
+-- https://school.programmers.co.kr/learn/courses/30/lessons/144856
+SELECT T.AUTHOR_ID, T.AUTHOR_NAME, T.CATEGORY, SUM(TOTAL_SALES) AS TOTAL_SALES FROM (
+    SELECT B.AUTHOR_ID, A.AUTHOR_NAME, B.CATEGORY, SUM(B.PRICE * S.SALES) AS TOTAL_SALES
+    FROM BOOK AS B
+             JOIN AUTHOR AS A ON B.AUTHOR_ID=A.AUTHOR_ID
+             RIGHT JOIN BOOK_SALES AS S ON B.BOOK_ID=S.BOOK_ID
+    WHERE DATE_FORMAT(SALES_DATE, '%Y-%m')='2022-01'
+    GROUP BY B.BOOK_ID
+) AS T
+GROUP BY T.AUTHOR_ID, T.CATEGORY
+ORDER BY T.AUTHOR_ID, T.CATEGORY DESC
