@@ -128,3 +128,25 @@ for(int i = 1; i < n; i++) {
 
 return count;
 ```
+
+## 최대 공약수(GCD) 구하기
+
+유클리드 호제법을 사용하면 두 수의 최대 공약수를 효율적으로 구할 수 있다.
+
+GCD(a, b) = GCD(b, a % b) (단, a >= b)
+
+```java
+private int gcd(int a, int b) {
+    if(b == 0) return a;
+    
+    return gcd(b, a % b);
+}
+```
+
+## 최소 공배수 구하기
+a와 b의 최소 공배수 LCM(a, b)는 a * b / GCD(a, b)로 구할 수 있다.
+```java
+private int lcm(int a, int b) {
+    return a * b / gcd(a, b);
+}
+```
