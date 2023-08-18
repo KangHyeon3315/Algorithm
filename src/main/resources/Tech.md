@@ -43,6 +43,14 @@ for(int i = 1; i <= (int)Math.sqrt(n); i++) { // 제곱근까지만 확인
 List<Integer> winNums=Arrays.stream(win_nums).boxed().collect(Collectors.toList());
 ```
 
+## List -> Array
+
+```java
+int[] array = result.stream().mapToInt(Integer::intValue).toArray();
+
+Integer[] array = result.toArray(new Integer[0]);
+```
+
 ## 진수 변화
 ```java
 String s = Integer.toString(n, 3); // 3진법 변환
