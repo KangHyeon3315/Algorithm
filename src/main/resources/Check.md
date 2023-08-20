@@ -6,4 +6,4 @@
 3. [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 4. [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 5. [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
-6. 
+6. [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
