@@ -8,6 +8,6 @@
 5. [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
 6. [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 7. [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
-
+8. [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 ## Level 3
 1. [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
