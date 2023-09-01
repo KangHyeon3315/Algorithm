@@ -12,6 +12,8 @@
 9. [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 10. [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 11. [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
+12. [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 
 ## Level 3
 1. [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+2. [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
